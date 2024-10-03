@@ -24,10 +24,8 @@ This project is my first Frontend Mentors Challenege. It is a QR code component 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here]((https://github.com/Ogaranya16/QR-code-component))
+- Live Site URL: [Add live site URL here]((https://ogaranya16.github.io/QR-code-component/))
 
 ### Built with
 
